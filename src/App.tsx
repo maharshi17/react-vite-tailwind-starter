@@ -2,7 +2,7 @@ import { Outlet } from 'react-router-dom'
 
 function App() {
   return (
-    <div className="min-h-screen p-3">
+    <div className="min-h-screen">
       <Outlet />
     </div>
   )
